@@ -20,10 +20,11 @@
 catatan, daftar yang dilarang akan diblacklist dari server, sehingga item tersebut tidak bisa didapatkan
 
 ##Peraturan dan tujuan selama bermain
+
 ###Sebelum war
 - setiap player dari tiap tim diperbolehkan berkeliling dan mencari bahan bahan, untuk kebutuhan tim
 - 
 - base akan aman dari grief, karena tidak dapat diserang
 
 ###Saat war
-- 
+- (peraturan)
